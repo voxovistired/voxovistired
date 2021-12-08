@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Aaron, you can call me Joeseph if you want.
-- 👀 I’m interested in: Python
-- 🌱 I’m currently learning: Java
-- 📫 How to reach: You can reach me on Twitter @voxov_tired, or contact me on Discord at Aaron R#0001
-
-Thnak you for reading my page, I might update this but who knows.
+- 👀 I am a 15 year old who enjoys to program!
+- 📫 How to reach: You can reach me on Twitter @voxov_tired, or contact me on Discord at Aaron R#7471
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=voxovistired&data=followers,repositories,stars,commits"></p>
