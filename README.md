@@ -1,16 +1,27 @@
-## Hi there 👋
+## Game Developer, Computer Scientist and Programmer
 
-<!--
-**voxovistired/voxovistired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact Information
+- Github: [voxovistired](https://github.com/voxovistired)
+- Twitter: [voxov_tired](https://x.com/voxov_tired)
+- Roblox: [aaronrtwo](https://www.roblox.com/users/87009930/profile)
+- Discord: ``voxov._``
 
-Here are some ideas to get you started:
+### Professional Summary
+An experienced game developer with over 9+ years of experience. Well versed in programming, game development, cyber security, and other various fields.
+Computer Scientist Undergraduate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Languages: LuaU, Lua, Python, Java, Rust, SQL
+- Tools & Technologies: Git, Roblox Studio, VSC, Github, SQL Workbench
+- Other Skills: Game Design, Security Analysis, UI/UX, 3D Modeling, Texturing
+
+### Professional Experience
+Developer
+(Forsaken Dev Team)
+*Mar 2025 - Present*
+- Developed [Forsaken](https://www.roblox.com/games/18687417158/Forsaken)
+
+(FNB Fan Club)
+Owner/Developer
+*Jun 2023 - Present*
+- Developed [Friday Night Bloxxin'](https://www.roblox.com/games/7603193259/Friday-Night-Bloxxin)
