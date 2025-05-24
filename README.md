@@ -16,8 +16,8 @@ Computer Scientist Undergraduate.
 - Other Skills: Game Design, Security Analysis, UI/UX, 3D Modeling, Texturing
 
 ### Professional Experience
-Developer
 (Forsaken Dev Team)
+Developer
 *Mar 2025 - Present*
 - Developed [Forsaken](https://www.roblox.com/games/18687417158/Forsaken)
 
