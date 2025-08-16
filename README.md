@@ -20,10 +20,12 @@ Computer Scientist Undergraduate.
 Developer
 *Mar 2025 - Present*
 - Developed [Forsaken](https://www.roblox.com/games/18687417158/Forsaken)
+
 (@Saucefy10)
 Programmer
 *June 2025 - Present*
 - Programmed [Die Of Death](https://www.roblox.com/games/71895508397153/Die-of-Death)
+
 (FNB Fan Club)
 Owner/Developer
 *Jun 2023 - Present*
