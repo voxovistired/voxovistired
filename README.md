@@ -30,3 +30,7 @@ Programmer
 Owner/Developer
 *Jun 2023 - Present*
 - Developed [Friday Night Bloxxin'](https://www.roblox.com/games/7603193259/Friday-Night-Bloxxin)
+
+### Awards
+(Roblox)
+- x1 RIA 2025 Best Survival Experience
